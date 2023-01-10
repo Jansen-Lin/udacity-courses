@@ -162,6 +162,30 @@ print show_excitement()
 # 8. Notation Intro
 
 Big O notation
-O(n)
+- O(n)
+- O(n^3)
+- O(n^2)
+- O(sqrt(n))
+- O(log(n))
+- O(nlog(n))
+- O(1)
+
+n = length of input to a function
+
+# 9. Notation Continued
+
+![image](https://user-images.githubusercontent.com/93126390/211609476-36f070f0-0cfd-4207-be5b-8b7c6998be40.png)
+Hard to predict how many computations this pseudocode going to take.
+- a lower language like C would break down the process a lot more and would take more lines of code, but do less work in the background
+- the python version of this might be about these many lines of code, but doing a lot more in the background because it's a higher level language
+- ...
+
+# 10 Worst Case and Approximation
+
+- efficiency approximately O(n).
+
+![image](https://user-images.githubusercontent.com/93126390/211611566-d0e92170-31ba-4d30-9043-6e0ba2a59cc1.png)
+
+
 
 
