@@ -186,6 +186,8 @@ Hard to predict how many computations this pseudocode going to take.
 
 ![image](https://user-images.githubusercontent.com/93126390/211611566-d0e92170-31ba-4d30-9043-6e0ba2a59cc1.png)
 
+Best case, Average Case, Worst Case
+
 
 
 
